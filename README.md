@@ -9,7 +9,7 @@ This project focuses on analyzing Artificial Intelligence (AI) job trends. Lever
 4. **Random Forest Modeling**: Utilization of the powerful Random Forest algorithm for robust data modeling and trend prediction.
 5. **Google Colab Integration**: Fully executable and reproducible in Google Colab, making it easy to run and explore.
 
-**TECHNPLOGIES USED**
+**TECHNOLOGIES USED**
 1. Python 3.x
 2. Google Colab
 3. Pandas (for data manipulation)
